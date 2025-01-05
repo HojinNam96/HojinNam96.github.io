@@ -1,7 +1,7 @@
 # Site settings
 title: 쓰고정리하기
 description: 'Hojin Nam, System SW Engineer'
-url: 'https://hojinnam96.github.io/'
+#url: 'https://hojinnam96.github.io/'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
@@ -9,9 +9,7 @@ baseurl: ''
 
 author:
   name: 'Hojin Nam'
-  email: nhojin0401@gmail.com
-  twitter_username: 
-  facebook_username: 
+  email: nhojin0401@gmail.com 
   github_username:  HojinNam96
   linkedin_username: hojin-nam-7273091b8
 

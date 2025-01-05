@@ -1,7 +1,8 @@
 ---
-title:  "[Github Page] 개인 블로그 생성"
-date:   2025-01-05
-categories: [post]
+layout: post
+title: "[Github Page] 개인 블로그 생성"
+date: 2025-01-05 20:25:00 +0000
+categories: post
 tags:
 - all
 - blog
