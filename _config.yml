@@ -1,11 +1,14 @@
 # Site settings
 title: 쓰고정리하기
 description: 'Hojin Nam, System SW Engineer'
+url: "http://127.0.0.1:4000"
+baseurl: ""
 #url: 'https://hojinnam96.github.io/'
-baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
+future: true
+#timezone: Asia/Seoul
 
 author:
   name: 'Hojin Nam'
@@ -38,5 +41,5 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-plugins: ['jekyll-paginate']
+plugins: ['jekyll-paginate','jekyll-sitemap']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

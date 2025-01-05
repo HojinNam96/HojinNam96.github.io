@@ -1,14 +1,9 @@
 ---
-layout: post
-title: "[Github Page] 개인 블로그 생성"
-date: 2025-01-05 20:25:00 +0000
-categories: post
-tags:
-- all
-- blog
+published: true
+title: "Make Personal Blog"
+categories: [blog]
+date: 2023-01-04 20:50:00
 ---
-## 블로그 생성
-
 이전에도 티스토리, velog, 깃허브 등의 사람들이 자주 사용하는 블로그 서비스들을 이용해 블로그를 생성해오곤 했었지만
 그 활동이 지속적으로 이어진적은 많지 않았던 것 같다.
 
