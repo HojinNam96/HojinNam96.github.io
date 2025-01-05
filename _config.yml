@@ -1,8 +1,8 @@
 # Site settings
 title: 쓰고정리하기
 description: 'Hojin Nam, System SW Engineer'
-url: 'http://HojinNam96.github.io'
-baseurl: '/jekyll-uno'
+url: 'https://HojinNam96.github.io/'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
